@@ -1,0 +1,59 @@
+/*****BASE STYLES *****/
+body {
+  font-family: 'Maven Pro', sans-serif;
+}
+#main, #about, #skills, #work, #contact{
+  height: 600px;
+}
+/*****GRID*****/
+.full-width{
+  width:1200px;
+  margin:0 auto;
+}
+.half-width{
+  width:600px;
+}
+.third-width{
+  width:400px;
+}
+/*****HEADER*****/
+header {
+  height: 800px;
+  background:url('../img/main.jpg')
+  background-size: cover;
+}
+header h1{
+padding:50px;
+font-family: 'Didact Gothic', sans-serif;
+font-size: 48;
+color:
+}
+header h2{
+  padding:
+  width:
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 48;
+  color:
+
+}
+  header h3{
+    padding:
+    width:
+    font-family: 'Didact Gothic', sans-serif;
+    font-size:48;
+    color:
+}
+/*****ABOUT*****/
+#about .half-width {
+
+}
+/*****WORK*****/
+#skills .third-width {
+
+}
+#work .third-width {
+
+}
+#contact .half-width {
+
+}
